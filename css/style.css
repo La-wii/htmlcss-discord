@@ -16,7 +16,7 @@ nav{
     text-align: center;
 }
 
-nav .logo{
+.logo{
     vertical-align: middle;
 }
 
@@ -51,11 +51,12 @@ nav .login a{
     color: white;
     font-size: 50px;
     padding-top: 200px;
+    margin-bottom: 20px;
 }
 
 .jumbotron p{
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
