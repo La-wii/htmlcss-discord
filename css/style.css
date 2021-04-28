@@ -4,12 +4,48 @@
     box-sizing: border-box;
 }
 
+/* .container{
+    width: 80%;
+    margin: 0 auto;
+} */
+
 nav{
     background-color: lightskyblue;
+    width: 100vw;
     height: 80px;
+    text-align: center;
+}
+
+nav .logo{
+    vertical-align: middle;
+}
+
+nav ul li{
+    display: inline-block;
+    height: 80px;
+    line-height: 80px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav .login a{
+    color: black;
+    background-color: white;
+    font-size: 14px;
+    padding: 6px 14px;
+    border-radius: 40px;
+    margin-right: 10px;
 }
 
 .jumbotron{
     height: 550px;
-    background-color: blue;
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
 }
+
+
+
+
