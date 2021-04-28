@@ -113,6 +113,8 @@ nav .login a{
     clear: both;
 }
 
+/* inizio canali vocali */
+
 .canali-vocali-text{
     width: 35%;
     margin-top: 70px;
@@ -151,12 +153,11 @@ nav .login a{
     padding-top: 10px;
 }
 
+/* footer */
 footer{
     background-color: rgb(35, 39, 42);
     padding-top: 120px;
-    margin-top: 10px;
-    height: 800px;
-    
+    margin-top: 10px;   
 }  
 
 footer h3{
@@ -205,6 +206,7 @@ footer ul li a{
 .footer-bottom{
     border-top: 2px solid rgb(41, 94, 231);
     padding-top: 30px;
+    padding-bottom: 100px;
 }
 
 .registrati{
