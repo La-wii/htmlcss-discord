@@ -201,6 +201,11 @@ footer ul li{
 footer ul li a{
     color: white;
 }
+/* footer bottom */
+.footer-bottom{
+    border-top: 2px solid rgb(41, 94, 231);
+    padding-top: 30px;
+}
 
 .registrati{
     background-color: rgb(41, 94, 231);
@@ -210,8 +215,5 @@ footer ul li a{
     margin-left: 80%;
 }
 
-.footer-bottom{
-    border-top: 2px solid rgb(41, 94, 231);
-    padding-top: 30px;
-}
+
 
