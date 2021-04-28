@@ -14,7 +14,7 @@ a {
 }
 
 nav{
-    background-color: lightskyblue;
+    background-color: rgb(41, 94, 231);
     width: 100vw;
     height: 80px;
     text-align: center;
@@ -134,3 +134,34 @@ nav .login a{
     margin-bottom: 20px;
 }
 
+.social{
+    width: 32%;
+    margin-right: 2%;
+}
+
+.small-mrg-rt{
+    width: 15%;
+    margin-right: 2%;
+}
+
+.small{
+    width: 15%;
+}
+
+footer{
+    margin-top: 10px;
+}  
+
+footer h3{
+    color: rgb(41, 94, 231);
+}
+
+footer h4{
+    color: rgb(41, 94, 231);
+    margin-bottom: 10px;
+}
+
+footer ul li{
+    list-style: none;
+    line-height: 1.6;
+}
