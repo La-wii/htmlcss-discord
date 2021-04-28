@@ -114,6 +114,11 @@ nav .login a{
 }
 
 /* inizio canali vocali */
+.canali-vocali{
+    background-color: rgb(243, 244, 245);
+    width: 70%;
+    margin: -5px auto 0;
+}
 
 .canali-vocali-text{
     width: 35%;
