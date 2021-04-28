@@ -9,6 +9,10 @@
     margin: 0 auto;
 }
 
+a {
+    text-decoration: none;
+}
+
 nav{
     background-color: lightskyblue;
     width: 100vw;
@@ -27,7 +31,6 @@ nav ul li{
 }
 
 nav ul li a{
-    text-decoration: none;
     color: white;
 }
 
@@ -40,6 +43,7 @@ nav .login a{
     margin-right: 10px;
 }
 
+/* inizio jumbotron */
 .jumbotron{
     height: 550px;
     background-image: url(../img/jumbo.png);
@@ -57,6 +61,55 @@ nav .login a{
 .jumbotron p{
     color: white;
     font-size: 20px;
+    margin-bottom: 20px;
 }
+
+.btn{
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 40px;
+    margin-right: 10px;
+}
+.btn-white{
+    background-color: white;
+    color: black;
+}
+
+.btn-dark{
+    background-color: rgb(54, 57, 63);
+    color: white;
+}
+
+/* inizio sezione canali */
+
+.colonna{
+    float: left;
+}
+
+.canali-img{
+    width: 60%;
+    margin-right: 5%;
+}
+
+.canali-text{
+    width: 35%;
+    margin-top: 40px;
+}
+
+.canali-text h2{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.canali-text p{
+    font-size: 22px;    
+}
+
+.clearfix::after{
+    content:'';
+    display: table;
+    clear: both;
+}
+
 
 
