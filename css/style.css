@@ -100,7 +100,7 @@ nav .login a{
 
 .canali-text h2{
     font-size: 45px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .canali-text p{
@@ -113,5 +113,24 @@ nav .login a{
     clear: both;
 }
 
+.canali-vocali-text{
+    width: 35%;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
 
+.canali-vocali-text h2{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.canali-vocali-text p{
+    font-size: 22px;   
+}
+
+.canali-vocali-img{
+    width: 65%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 
