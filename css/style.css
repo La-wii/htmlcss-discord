@@ -19,10 +19,9 @@ nav{
     height: 80px;
     text-align: center;
 }
-
-.logo{
-    vertical-align: middle;
-}
+ .logo{
+     vertical-align: middle;
+ }
 
 nav ul li{
     display: inline-block;
