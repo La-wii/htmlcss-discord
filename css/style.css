@@ -161,6 +161,18 @@ footer{
 footer h3{
     color: rgb(41, 94, 231);
     font-size: 30px;    
+    margin-bottom: 20px;
+}
+
+.bandiera{
+    width: 30px;
+    margin-right: 10px;
+}
+
+
+.lingua{
+    color: white;
+    margin-bottom: 20px;
 }
 
 footer h4{
