@@ -116,7 +116,6 @@ nav .login a{
 /* inizio canali vocali */
 .canali-vocali{
     background-color: rgb(243, 244, 245);
-    /* width: 70%; */
     margin: -5px auto 0;
 }
 
@@ -157,6 +156,28 @@ nav .login a{
     width: 15%;
     padding-top: 10px;
 }
+
+/* advetures */
+.adventures{
+    background-color: rgb(243, 244, 245);
+    text-align: center;
+    margin-top: -5px;
+}
+
+.adventures h2{
+    font-size: 55px;
+    padding-bottom: 40px;
+}
+
+.adventures p{
+    font-size: 25px;
+}
+
+.adventures img{
+    width: 100%;
+    margin: 50px auto;
+}
+
 
 /* footer */
 footer{
